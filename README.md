@@ -42,3 +42,18 @@ npm install
 npm start
  ```
 5. Open your browser and visit http://localhost:3000# cute_web
+
+## 🌐 Deployment
+This application can be easily deployed to platforms like:
+
+- GitHub Pages
+- Netlify
+- Vercel
+- Firebase Hosting
+## 💡 Customization
+You can customize the messages by editing the messages array in the MessageCard.js file.
+
+## 📄 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Made with ❤️ by caigicungdev
